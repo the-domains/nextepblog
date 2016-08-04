@@ -1,0 +1,14 @@
+layout_spectrum: 0.23204969055950642
+typography_spectrum: 0.9340939060784876
+color:
+  brandStrength: 0.5628613629378378
+  lightness: 0.4596512382850051
+  saturation: 0.4731141335796565
+  rhythmicContrast: 0.3721299667377025
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: NextepBlog
