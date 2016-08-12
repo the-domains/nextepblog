@@ -1,16 +1,16 @@
-typography_spectrum: 0.9340939060784876
+typography_spectrum: 0.7329538739286363
 color:
-  brandStrength: 0.5628613629378378
-  lightness: 0.4596512382850051
-  saturation: 0.4731141335796565
-  rhythmicContrast: 0.3721299667377025
+  brandStrength: 0.9606115079950541
+  lightness: 0.8522176090627909
+  saturation: 0.4910255055874586
+  rhythmicContrast: 0.19114711787551641
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.23204969055950642
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+layout_spectrum: 0.14635860174894333
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbf118f4-71f8-412c-ab7f-0527e65c82de.png
 name: Nextep Blog
