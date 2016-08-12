@@ -1,4 +1,4 @@
-typography_spectrum: 0.903612848604098
+typography_spectrum: 0.09498875541612506
 color:
   brandStrength: 0.311462513403967
   lightness: 0.9157130976673216
@@ -10,7 +10,7 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
-layout_spectrum: 0.7961692500393838
+layout_spectrum: 0.7283408944495022
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbf118f4-71f8-412c-ab7f-0527e65c82de.png
 name: Nextep Blog
