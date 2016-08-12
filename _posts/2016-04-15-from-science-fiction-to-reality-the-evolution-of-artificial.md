@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-12T11:01:27.851Z'
+datePublished: '2016-08-12T13:16:56.314Z'
 sourcePath: >-
   _posts/2016-04-15-from-science-fiction-to-reality-the-evolution-of-artificial.md
 inFeed: true
@@ -23,7 +23,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-12T11:01:27.288Z'
+dateModified: '2016-08-12T13:16:55.444Z'
 title: 'From Science Fiction to Reality: The Evolution of Artificial Intelligence'
 app_links: []
 publisher:
