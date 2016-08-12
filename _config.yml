@@ -14,4 +14,8 @@ layout_spectrum: 0.23204969055950642
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbf118f4-71f8-412c-ab7f-0527e65c82de.png
 name: Nextep Blog
+navigation:
+  - name: Chi siamo
+    url: www.nextep.it
+    type: external
 title: Stay updated
